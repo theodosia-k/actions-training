@@ -54,7 +54,6 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] 🔨 Hands-on: [Reusable workflows](hol/04-Reusable-workflows.md)
 - [ ] Best practices and security
 
-
 ## ⚡ Prerequisites
 
 The workshop is designed for developers that have used other platforms like Azure DevOps, GitLab, or Bitbucket and now want to switch to GitHub. But it is also suitable for people that are new to topics like git, CI/CD, and DevOps.
